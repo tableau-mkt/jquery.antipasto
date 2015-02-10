@@ -1,0 +1,26 @@
+{
+  "name": "jquery.antipasto",
+  "title": "jQuery Antipasto",
+  "description": "Detangler of form spaghetti.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tableau-mkt/jquery.antipasto",
+  "author": {
+    "name": "Tableau Marketing Webteam",
+    "email": "marketing-webteam@tableau.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tableau-mkt/jquery.antipasto.git"
+  },
+  "bugs": "https://github.com/tableau-mkt/jquery.antipasto/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tableau-mkt/jquery.antipasto/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
