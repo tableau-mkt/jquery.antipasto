@@ -1,4 +1,4 @@
-# jQuery Antipasto
+# jquery.antipasto
 
 Detangler of form spaghetti.
 
